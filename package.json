@@ -1,0 +1,10 @@
+{
+  "name": "ga-search-string",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "wchr-aun <wchr.aun@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx ts-node index.ts"
+  }
+}
